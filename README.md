@@ -34,7 +34,3 @@ Researcher focusing on **AI for Science (AI4S)** and **AI Infrastructure (AIInfr
 - **Coming soon**
   Projects on data mining, analytics, machine learning, and applied data science.
 
-## 🧩 Other Projects
-
-- **Coming soon**
-  Miscellaneous research and engineering projects.
