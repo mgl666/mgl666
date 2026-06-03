@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Guanlong Ma 👋
 
-<!--
-**mgl666/mgl666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher focusing on **AI for Science (AI4S)** and **AI Infrastructure (AIInfra)**, with interests in foundation models for Earth systems and large-scale AI systems.
 
-Here are some ideas to get you started:
+## 🌎 Atmospheric Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**NJU-Earth**](https://github.com/NJUHML/NJU-Earth) *(NJUHML)*
+  Global AI Earth system model at 0.25° resolution. [[Code](https://github.com/NJUHML/NJU-Earth)] [[Paper](https://chatgpt.com/c/paper-link)]
+- **Baguan HR** *(NJUHML & Alibaba DAMO)*
+  Global high-resolution AI weather model at 0.1° resolution. [[Code](https://chatgpt.com/c/repo-link)] [[Paper](https://chatgpt.com/c/paper-link)]
+- **RegionalCast** *(NJUHML)*
+  Regional surface variable forecasting system at 0.05° resolution. [[Code](https://chatgpt.com/c/repo-link)] [[Paper](https://chatgpt.com/c/paper-link)]
+- [**RainCast**](https://github.com/NJUHML/RainCast) *(NJUHML & Alibaba DAMO)*
+  Regional high-resolution precipitation forecasting at 0.05° resolution. [[Code](https://github.com/NJUHML/RainCast)] [[Paper](https://chatgpt.com/c/paper-link)]
+- [**NJU-Mars**](https://github.com/NJUHML/NJU-Mars) *(NJUHML)*
+  Global AI model for Martian atmospheric prediction at 5° resolution. [[Code](https://github.com/NJUHML/NJU-Mars)] [[Paper](https://chatgpt.com/c/paper-link)]
+
+## ⚙️ AI Infrastructure Projects
+
+- **Coming soon**
+  Projects on large-scale AI systems, distributed training, model deployment, and AI infrastructure.
+
+## 📊 Data Science Projects
+
+- **Coming soon**
+  Projects on data mining, analytics, machine learning, and applied data science.
+
+## 🧩 Other Projects
+
+- **Coming soon**
+  Miscellaneous research and engineering projects.
+
+## 🌐 Links
+
+- Personal Website: https://mgl666.github.io/
