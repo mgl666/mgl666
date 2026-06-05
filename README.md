@@ -6,7 +6,7 @@ Researcher focusing on **AI for Science (AI4S)** and **AI Infrastructure (AIInfr
 
 - [**NJU-Earth**](https://github.com/NJUHML/NJU-Earth) *(NJUHML)*
 
-  Global AI Earth system model at 0.25° resolution. [[Code](https://github.com/NJUHML/NJU-Earth)] [[Paper](https://chatgpt.com/c/paper-link)]
+  Global AI Earth system model at 0.25° resolution. [[Code](https://github.com/NJUHML/NJU-Earth)]
 
 - **Baguan HR** *(NJUHML & Alibaba DAMO)*
 
