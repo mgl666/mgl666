@@ -33,7 +33,7 @@ Researcher focusing on **AI for Science (AI4S)** and **AI Infrastructure (AIInfr
 
 - [**Customer Behavior Prediction**](https://github.com/mgl666/Customer_Behavior_Prediction)
 
-   China Merchants Bank's 10th Digital Finance Training Camp, Task1. [[Code](https://github.com/mgl666/Customer_Behavior_Prediction)]
+   Predicting customer financial APP operation behavior (CMB's 10th Digital Finance Training Camp, Online). [[Code](https://github.com/mgl666/Customer_Behavior_Prediction)]
 
 ## 🛠️ MiniTools
 
@@ -44,3 +44,11 @@ Researcher focusing on **AI for Science (AI4S)** and **AI Infrastructure (AIInfr
 - [**MiniPDF**](https://github.com/mgl666/MiniPDF)
 
    A lightweight PDF tool for reading, merging, and editing. [[Code](https://github.com/mgl666/MiniPDF)]
+
+- [**MiniSpark**](https://github.com/mgl666/MiniSpark)
+
+   A lightweight AI Agent framework that runs on a 1GB server. [[Code](https://github.com/mgl666/MiniSpark)]
+
+- [**aiapiport**](https://github.com/mgl666/aiapiport)
+
+   A minimal LLM API gateway that unifies all your scattered API keys into a single endpoint. [[Code](https://github.com/mgl666/aiapiport)]
