@@ -10,19 +10,19 @@ Researcher focusing on **AI for Science (AI4S)** and **AI Infrastructure (AIInfr
 
 - **BaguanHR** *(NJUHML & Alibaba DAMO)*
 
-  Global high-resolution AI weather model at 0.1° resolution. [[Paper](https://chatgpt.com/c/paper-link)]
+  Global high-resolution AI weather model at 0.1° resolution. [[Paper](https://)]
 
 - **RegionalCast** *(NJUHML)*
 
-  Regional surface variable forecasting system at 0.05° resolution. [[Code](https://chatgpt.com/c/repo-link)] [[Paper](https://chatgpt.com/c/paper-link)]
+  Regional surface variable forecasting system at 0.05° resolution. [[Code](https://)] [[Paper](https://)]
 
 - [**RainCast**](https://github.com/NJUHML/RainCast) *(NJUHML & Alibaba DAMO)*
 
-  Regional high-resolution precipitation forecasting at 0.05° resolution. [[Code](https://github.com/NJUHML/RainCast)] [[Paper](https://chatgpt.com/c/paper-link)]
+  Regional high-resolution precipitation forecasting at 0.05° resolution. [[Code](https://github.com/NJUHML/RainCast)] [[Paper](https://doi.org/10.1145/3770855.3818880)]
 
 - [**NJU-Mars**](https://github.com/NJUHML/NJU-Mars) *(NJUHML)*
 
-  Global AI model for Martian atmospheric prediction at 5° resolution. [[Code](https://github.com/NJUHML/NJU-Mars)] [[Paper](https://chatgpt.com/c/paper-link)]
+  Global AI model for Martian atmospheric prediction at 5° resolution. [[Code](https://github.com/NJUHML/NJU-Mars)] [[Paper](https://)]
 
 ## ⚙️ AI Infrastructure Projects
 
