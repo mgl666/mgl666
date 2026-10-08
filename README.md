@@ -10,7 +10,7 @@ Researcher focusing on **AI for Science (AI4S)** and **AI Infrastructure (AIInfr
 
 - **BaguanHR** *(NJUHML & Alibaba DAMO)*
 
-  Global high-resolution AI weather model at 0.1° resolution. [[Paper](https://)]
+  Global high-resolution AI weather model at 0.1° resolution. [[Paper](https://doi.org/10.1007/978-3-032-37086-0_8)]
 
 - **RegionalCast** *(NJUHML)*
 
@@ -18,7 +18,7 @@ Researcher focusing on **AI for Science (AI4S)** and **AI Infrastructure (AIInfr
 
 - [**RainCast**](https://github.com/NJUHML/RainCast) *(NJUHML & Alibaba DAMO)*
 
-  Regional high-resolution precipitation forecasting at 0.05° resolution. [[Code](https://github.com/NJUHML/RainCast)] [[Paper](https://doi.org/10.1145/3770855.3818880)]
+  Regional high-resolution precipitation forecasting at 0.05° resolution. [[Code](https://github.com/NJUHML/RainCast)] [[Paper](https://dl.acm.org/doi/10.1145/3770855.3818880)]
 
 - [**NJU-Mars**](https://github.com/NJUHML/NJU-Mars) *(NJUHML)*
 
